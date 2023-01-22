@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aliaksandr Dvornik
 - 👀 I’m interested in science and technologies
-- 🌱 I’m currently learning python and django
+- 🌱 I’m currently learning python and golang
 - 📫 You can email me on aadvornik@gmail.com
 
 <!---
