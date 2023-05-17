@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aliaksandr Dvornik
+- 👋 Hi, I’m Alex Dvornik
 - 👀 I’m interested in science and technologies
 - 🌱 I’m currently learning python and golang
 - 📫 You can email me on aadvornik@gmail.com
