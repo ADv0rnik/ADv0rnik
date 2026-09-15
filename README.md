@@ -11,13 +11,13 @@ My toolbox includes:
 
 ### 🧠 I like working with
 
-* Bayesian statistics & probabilistic modelling
-* Scientific computing
-* Signal processing
-* Data analysis & visualization
-* Radiation detection & gamma spectrometry
 * Backend & frontend development
 * Docker & self-hosted systems
+* Scientific computing
+* Radiation detection & gamma spectrometry
+* Signal processing
+* Bayesian statistics & probabilistic modelling
+* Data analysis & visualization
 * Experimental and slightly weird side projects 🧪
 
 ### 🚀 Projects
