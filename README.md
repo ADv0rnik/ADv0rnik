@@ -48,7 +48,7 @@ A small playground for Linux, Docker, networking and self-hosted services.
 
 ### 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=\ADv0rnik\&show_icons=true\&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ADv0rnik&theme=ocean&border_radius=11.5)
 
 ### 📫 Find me
 
