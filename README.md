@@ -52,7 +52,7 @@ A small playground for Linux, Docker, networking and self-hosted services.
 
 ### 📫 Find me
 
-[GitHub](https://github.com/ADv0rnik) · [LinkedIn](https://linkedin.com/in/ADv0rnik)
+[GitHub](https://github.com/ADv0rnik) · [LinkedIn](https://www.linkedin.com/in/aliaksandr-dvornik/)
 
 ---
 
