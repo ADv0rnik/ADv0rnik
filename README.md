@@ -4,7 +4,7 @@
 
 I work at the intersection of **science, data, and software**.
 My main interests are **computational science, modelling, engineering, software development and data analysis**.
-I like taking complicated problems, turning them into models, writing too much Python, and then figuring out why the model decided to do something completely unexpected. 😅
+I like taking complicated problems, turning them into models, writing too much Python, and then figuring out why the model decided to do something completely unexpected. 😅 I also like dogs 🐕
 
 My toolbox includes:
 `Python` · `PyMC` · `NumPy` · `SciPy` · `Pandas` · `Docker` · `PostgreSQL` · `React`
